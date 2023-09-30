@@ -1,0 +1,1 @@
+The API will not work unless "Access Control-Allow-Origin - Unblock" this extenstion added to firefox and chrome.
